@@ -1,4 +1,3 @@
-#This is an rmarkdown file
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
